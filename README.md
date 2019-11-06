@@ -1,3 +1,21 @@
+# angular8study
+
+### Requisitos:
+* Node.js
+* Angular 8
+* Angular material
+* Bootstrap
+
+
+### Comandos que foram utilizados para criar o projeto:
+* npm install -g @angular/cli
+* ng new traning-bank
+* ng add @angular/material (Foi incluido o Angular Animations e HammerJS)
+* ng add bootstrap   
+
+
+----------------------------------------------------------------------------------------------------------------
+
 # TraningBank
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
